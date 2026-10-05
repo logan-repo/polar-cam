@@ -1,0 +1,7 @@
+# 빌드 산출물 (설치 파일은 GitHub Releases에 올립니다)
+dist/
+build/
+*.spec
+__pycache__/
+*.pyc
+*.log
